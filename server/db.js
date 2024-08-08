@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const MONGODB_URI = 'mongodb+srv://milliondollarreveal:SnsYRSOoL1jniNuM@cluster0.kirspfa.mongodb.net/?retryWrites=true&w=majority'; // Replace with your MongoDB URI
+const MONGODB_URI = 'mongodb+srv://milliondollaet/?retryWrites=true&w=majority'; // Replace with your MongoDB URI
 
 mongoose
   .connect(MONGODB_URI, {
